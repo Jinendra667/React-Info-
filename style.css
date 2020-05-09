@@ -1,0 +1,56 @@
+h1{ 
+    color: aqua;
+    text-align: center; 
+}
+.header *{
+    border : solid;
+    
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+    
+}
+
+
+.header{
+    background-color:darkblue ;
+
+}
+
+.item{
+    text-align: center;
+}
+p,h2{
+    text-align: center;
+
+}
+p{
+    font-size: x-large;
+}
+
+body{
+    background-color: #bc8f8f;
+    
+}
+h4,h5,h6{
+    font-size: larger;
+    text-align: center;
+}
+.yeet{
+    text-align: center;
+    font-size: larger;
+}
+.bz{
+    text-align: left;
+    font-size: larger;
+ }
+
+ .name{
+     text-align: center;
+     font-size: x-large;
+     font-style: italic;
+     font-weight: bold;
+ }
